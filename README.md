@@ -22,7 +22,7 @@ sudo python3 information_gathering_tool.py
 sudo python3 ip_scan.py
 sudo python3 network_fuzzer.py
 sudo python3 nmap_scan.py [target] [options]
-
+```
 
 ### Additional Notes:
 - Replace placeholder descriptions with specific details about the functionalities of each script.
