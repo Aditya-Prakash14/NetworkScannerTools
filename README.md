@@ -17,3 +17,22 @@ To run these scripts, you need Python installed. You can download it from [pytho
 ```bash
 pip install scapy
 pip install python-nmap
+sudo python3 arp_scan.py
+sudo python3 information_gathering_tool.py
+sudo python3 ip_scan.py
+sudo python3 network_fuzzer.py
+sudo python3 nmap_scan.py [target] [options]
+
+
+### Additional Notes:
+- Replace placeholder descriptions with specific details about the functionalities of each script.
+- You can also add any dependencies required for each script.
+- Adjust options and usage instructions based on the actual implementation of your tools.
+
+Feel free to modify this template as needed! Let me know if you need further assistance or additional features.
+
+
+
+
+
+
